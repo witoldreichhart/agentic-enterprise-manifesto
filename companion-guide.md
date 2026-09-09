@@ -90,6 +90,8 @@ Evidence categories:
 
 *Audit reconstructability* — the reasoning chain from action to substrate to constraint must remain fully traceable under the relocated governance model.
 
+*Reviewer engagement* — where any human review remains in the loop, evidence that it is substantive. **A declining intervention or override rate is not this evidence**: it is a composite of the system's error rate and the reviewer's disengagement and falls identically under both (Principle 7). Nor is the error-detection-rate comparison above sufficient on its own, since it presumes errors are still arriving to be detected and cannot distinguish a queue that has genuinely cleaned up from a reviewer who has stopped looking. The evidence is a positive result from an engagement test — synthetic faults injected into the review queue under blinding and interception, with detection on injected faults tracked separately from the baseline rate — reported as **supported within scope**, **contradicted**, or **inconclusive**. The design and its limits are in the agentic engineering manifesto's adoption metrics document (`agentic-engineering-manifesto/adoption/metrics.md`), "Engagement Falsification Protocol"; it is proposed and unvalidated, is run first in simulation or shadow review, cannot reach actions with no per-action human decision, excludes irreversible and person-affecting actions, and cannot be powered on low-volume classes. Where it cannot be run, control equivalence is recorded as resting on the four categories above, with the absence of engagement evidence stated rather than implied.
+
 ### Relocation is gradual, not binary
 
 Relocation for an action class typically progresses through stages:

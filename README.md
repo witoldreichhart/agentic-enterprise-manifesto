@@ -19,6 +19,7 @@ This manifesto specifies what that requires.
 | [manifesto.md](manifesto.md) | Core document — 6 values, 12 principles, worked example, failure modes, metrics, adoption path |
 | [companion-guide.md](companion-guide.md) | Operational detail — initiative conditions, governance relocation mechanics, consequence classes, enterprise lifecycle interactions, boundary conditions |
 | [glossary.md](glossary.md) | Term definitions as used in this framework |
+| [errata.md](errata.md) | Dated corrections to previously published content |
 
 ## The governance stack
 
