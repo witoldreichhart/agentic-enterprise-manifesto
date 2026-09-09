@@ -40,7 +40,7 @@ Terms as used in the Agentic Enterprise Manifesto and companion guide. Definitio
 
 **Governance relocation** — The mechanism by which governance enforcement migrates from synchronous pre-action constraint checking to substrate-resident causal structure that agents encounter during normal reasoning. Operates per action class. Requires demonstrated control equivalence. Reversible — if the substrate degrades, governance re-tightens.
 
-**Control equivalence** — Evidence that a relocated governance mechanism achieves equal or better control outcomes than the synchronous check it replaced. Assessed through decision quality comparison, error detection rates, response time to degradation, and audit reconstructability.
+**Control equivalence** — Evidence that a relocated governance mechanism achieves equal or better control outcomes than the synchronous check it replaced. Assessed through decision quality comparison, error detection rates, response time to degradation, audit reconstructability, and — where human review remains in the loop — a positive reviewer-engagement result. A declining governance intervention rate is not evidence of control equivalence: it falls identically under a system that has stopped erring and a reviewer who has stopped looking (Principle 7).
 
 **Epistemic response classes** — The system's response when epistemic confidence falls below threshold, scaled by consequence class: block, escalate, restrict scope, advisory only, or continue with enhanced monitoring. "Fail closed" is the default for high-consequence actions; lower-consequence actions may degrade gracefully.
 
